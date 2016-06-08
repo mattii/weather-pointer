@@ -1,0 +1,16 @@
+{
+  "name": "weather-shake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "2.3.18",
+    "geolib": "2.0.21",
+    "request": "2.72.0"
+  }
+}
