@@ -1,0 +1,15 @@
+{
+  "name": "connected-cube",
+  "description": "",
+  "version": "0.0.1",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+      "aws-iot-device-sdk": "1.0.10",
+      "mraa": "1.0.0",
+      "jsupm_i2clcd": "0.4.1",
+      "jsupm_lsm9ds0": "0.4.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "__comment__": "",
+  "signatureVersion": 1,
+  "xdkVersion": "2571",
+  "projectGuid": "bea07f55-ae9b-4af9-925c-9168148093ee",
+  "projectTypeName": "com.intel.xdk.projecttype.iotapp",
+  "src": "connected-cube.zip"
+}

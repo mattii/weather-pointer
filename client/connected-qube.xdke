@@ -1,0 +1,231 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "README.md": {
+        "previousModTime": 1461599672000,
+        "modified": 1461599672000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "connected-qube.xdk": {
+        "previousModTime": 1464692856000,
+        "modified": 1464692856000,
+        "seen": true,
+        "name": "connected-qube.xdk"
+      },
+      "connected-qube.xdke": {
+        "previousModTime": 1465396834000,
+        "modified": 1465396834000,
+        "seen": true,
+        "name": "connected-qube.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1461599671000,
+        "modified": 1461599671000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1465397253000,
+        "modified": 1465397253000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1464702987000,
+        "modified": 1464702987000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1463723007000,
+        "modified": 1463723007000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "certs/root-CA.crt": {
+        "previousModTime": 1463723002000,
+        "modified": 1463723002000,
+        "seen": true,
+        "name": "certs/root-CA.crt"
+      },
+      "certs/1cd07de3c3-certificate.pem.crt": {
+        "previousModTime": 1463722998000,
+        "modified": 1463722998000,
+        "seen": true,
+        "name": "certs/1cd07de3c3-certificate.pem.crt"
+      },
+      "certs/1cd07de3c3-private.pem.key": {
+        "previousModTime": 1463722993000,
+        "modified": 1463722993000,
+        "seen": true,
+        "name": "certs/1cd07de3c3-private.pem.key"
+      },
+      "certs/1cd07de3c3-public.pem.key": {
+        "previousModTime": 1461591922000,
+        "modified": 1461591922000,
+        "seen": true,
+        "name": "certs/1cd07de3c3-public.pem.key"
+      },
+      ".node_app_slot/.appGuid": {
+        "previousModTime": 1461591921000,
+        "modified": 1461591921000,
+        "seen": true,
+        "name": ".node_app_slot/.appGuid"
+      },
+      "certs/6f46ff5e66-certificate.pem.crt": {
+        "previousModTime": 1464701452000,
+        "modified": 1464701452000,
+        "seen": true,
+        "name": "certs/6f46ff5e66-certificate.pem.crt"
+      },
+      "certs/6f46ff5e66-private.pem.key": {
+        "previousModTime": 1464701451000,
+        "modified": 1464701451000,
+        "seen": true,
+        "name": "certs/6f46ff5e66-private.pem.key"
+      },
+      "certs/6f46ff5e66-public.pem.key": {
+        "previousModTime": 1464701450000,
+        "modified": 1464701450000,
+        "seen": true,
+        "name": "certs/6f46ff5e66-public.pem.key"
+      },
+      "main copy.js": {
+        "previousModTime": 1464705386000,
+        "modified": 1464705386000,
+        "seen": true,
+        "name": "main copy.js"
+      },
+      "lcd.js": {
+        "previousModTime": 1465385181000,
+        "modified": 1465385181000,
+        "seen": true,
+        "name": "lcd.js"
+      },
+      "device.js": {
+        "previousModTime": 1465385031000,
+        "modified": 1465385031000,
+        "seen": true,
+        "name": "device.js"
+      },
+      "aws.js": {
+        "previousModTime": 1465386512000,
+        "modified": 1465386512000,
+        "seen": true,
+        "name": "aws.js"
+      },
+      "board.js": {
+        "previousModTime": 1465385031000,
+        "modified": 1465385031000,
+        "seen": true,
+        "name": "board.js"
+      },
+      "certs/4fce8704a5-certificate.pem.crt.txt": {
+        "previousModTime": 1465385973000,
+        "modified": 1465385973000,
+        "seen": true,
+        "name": "certs/4fce8704a5-certificate.pem.crt.txt"
+      },
+      "certs/4fce8704a5-private.pem.key": {
+        "previousModTime": 1465385973000,
+        "modified": 1465385973000,
+        "seen": true,
+        "name": "certs/4fce8704a5-private.pem.key"
+      },
+      "certs/4fce8704a5-public.pem.key": {
+        "previousModTime": 1465385973000,
+        "modified": 1465385973000,
+        "seen": true,
+        "name": "certs/4fce8704a5-public.pem.key"
+      },
+      "certs/4fce8704a5-certificate.pem.crt": {
+        "previousModTime": 1465385973000,
+        "modified": 1465385973000,
+        "seen": true,
+        "name": "certs/4fce8704a5-certificate.pem.crt"
+      },
+      "sensors.js": {
+        "previousModTime": 1465397221000,
+        "modified": 1465397221000,
+        "seen": true,
+        "name": "sensors.js"
+      }
+    },
+    "boardFileStatus": {
+      "README.md": {
+        "previousModTime": 1465397495001
+      },
+      "icon.png": {
+        "previousModTime": 1465397495001
+      },
+      "main.js": {
+        "previousModTime": 1465397495001
+      },
+      "package.json": {
+        "previousModTime": 1465397495001
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1465397495001
+      },
+      "certs/root-CA.crt": {
+        "previousModTime": 1465397495001
+      },
+      "certs/1cd07de3c3-certificate.pem.crt": {
+        "previousModTime": 1465397495001
+      },
+      "certs/1cd07de3c3-private.pem.key": {
+        "previousModTime": 1465397495001
+      },
+      "certs/1cd07de3c3-public.pem.key": {
+        "previousModTime": 1465397495001
+      },
+      "certs/6f46ff5e66-certificate.pem.crt": {
+        "previousModTime": 1465397495001
+      },
+      "certs/6f46ff5e66-private.pem.key": {
+        "previousModTime": 1465397495001
+      },
+      "certs/6f46ff5e66-public.pem.key": {
+        "previousModTime": 1465397495001
+      },
+      "main copy.js": {
+        "previousModTime": 1465397495001
+      },
+      "lcd.js": {
+        "previousModTime": 1465397495001
+      },
+      "device.js": {
+        "previousModTime": 1465397495001
+      },
+      "aws.js": {
+        "previousModTime": 1465397495001
+      },
+      "board.js": {
+        "previousModTime": 1465397495001
+      },
+      "certs/4fce8704a5-certificate.pem.crt.txt": {
+        "previousModTime": 1465397495001
+      },
+      "certs/4fce8704a5-private.pem.key": {
+        "previousModTime": 1465397495001
+      },
+      "certs/4fce8704a5-public.pem.key": {
+        "previousModTime": 1465397495001
+      },
+      "certs/4fce8704a5-certificate.pem.crt": {
+        "previousModTime": 1465397495001
+      },
+      "sensors.js": {
+        "previousModTime": 1465397495001
+      }
+    }
+  }
+}
